@@ -41,7 +41,8 @@
 
 ## Penjelasan
 
-🗣🔥 : <span style="color: #7E8EF1;">Bang Markdown Apaan?</span>
+<span style="color: #7E8EF1;">Bang Markdown Apaan?</span>
+
 
 Markdown adalah bahasa markup ringan yang digunakan untuk menulis teks yang mudah dibaca dan ditulis, yang dimana dikonversikan menjadi HTML secara otomatis. Ini dirancang untuk memungkinkan orang menulis dalam format teks biasa yang mudah dipahami, yang juga bisa diubah menjadi format yang terlihat bagus di web.
 
