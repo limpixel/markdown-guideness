@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://pbs.twimg.com/media/F-j9h-saUAABiEE.jpg" alt="Contoh Gambar" style="width:100%; height:240px; object-fit:cover">
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Contoh Gambar" style="width:100%; height:100%; object-fit:cover">
 </div>
 
 <a name="top"></a>
