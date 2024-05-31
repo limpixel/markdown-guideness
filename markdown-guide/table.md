@@ -22,7 +22,7 @@
 
 ---
 
-## Table Dengan Code HTML 
+### Table Dengan Code HTML 
 <table style="width:100%">
   <tr>
     <th>No</th>
