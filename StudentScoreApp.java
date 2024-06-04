@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class index {
+public class StudentScoreApp {
     static class Student {
         String name;
         int id;
